@@ -5,9 +5,11 @@ This project is a modern, responsive **Sign-Up page** built using **HTML, CSS, a
 
 ## Features
 - Responsive layout with a **two-panel design** (visual left side and form right side)
+  This is What my code produces:
+  
+- - ![Sign-Up Page look](files/2.png)
 - 
-- ![Visual Photo](files/1.jpg)
-- 
+
  - Interactive **form validation** for:
   - Username (3–15 characters)
   - Full name (requires first and last name)
@@ -19,8 +21,6 @@ This project is a modern, responsive **Sign-Up page** built using **HTML, CSS, a
 - Clear **success message** on form submission
 - Professional typography using **Google Fonts (Figtree)**
 - Custom color palette and gradients for modern UI look
-
-- ![Sign-Up Page look](files/2.jpg)
 
 ## Installation
 1. Clone this repository:
