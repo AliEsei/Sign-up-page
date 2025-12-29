@@ -21,10 +21,11 @@ This project is a modern, responsive **Sign-Up page** built using **HTML, CSS, a
 - Clear **success message** on form submission
 - Professional typography using **Google Fonts (Figtree)**
 - Custom color palette and gradients for modern UI look
-##Technology
+  
+## Technology
 HTML5
 
-CSS3 (Flexbox، گرادیانت، pseudo-element)
+CSS3 (Flexbox، pseudo-element)
 
 JavaScript (Vanilla JS)
 
